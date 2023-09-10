@@ -26,4 +26,5 @@ venv/
 *.lnk
 
 # Models directory (assuming you want to exclude this)
-models/
+models/*
+output/*
