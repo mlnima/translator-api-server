@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 BASE_URL = f"http://localhost:{os.environ.get('FLASK_PORT', 7860)}"
-target_language = "fa"
+target_language = "es"
 
 
 def test_translate_text():
