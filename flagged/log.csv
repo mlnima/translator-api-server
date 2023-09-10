@@ -1,0 +1,19 @@
+json_str,Target Language,output,flag,username,timestamp
+"'{
+    ""Home"": ""Home"",
+    ""You Need To Log In"": ""You Need To Log In"",
+    ""Categories"": ""Categories"",
+    ""Tags"": ""Tags"",
+    ""Actors"": ""Actors"",
+    ""Email"": ""Email"",
+    ""Login"": ""Login""
+}",de,"{ „Home“: „Home“, „You Need To Log In“: „You Need To Log In“, „Categories“: „Categories“, „Tags“: „Tags“, „Actors“: „Actors“, „Email“: „Email“, „Login“: „Login“ }",,,2023-09-10 19:42:13.093384
+"'{
+    ""Home"": ""Home"",
+    ""You Need To Log In"": ""You Need To Log In"",
+    ""Categories"": ""Categories"",
+    ""Tags"": ""Tags"",
+    ""Actors"": ""Actors"",
+    ""Email"": ""Email"",
+    ""Login"": ""Login""
+}",de,"{ „Home“: „Home“, „You Need To Log In“: „You Need To Log In“, „Categories“: „Categories“, „Tags“: „Tags“, „Actors“: „Actors“, „Email“: „Email“, „Login“: „Login“ }",,,2023-09-10 19:42:15.726553

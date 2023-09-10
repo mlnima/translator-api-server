@@ -1,14 +1,17 @@
 ```
 /translator_server
     /models
-        __init__.py
-        translation_model.py
+    /models_util  
+       __init__.py
+        translation_model.py  
     /views
         __init__.py
         endpoints.py
     /controllers
         __init__.py
         translation_controller.py
+    /ui
+       gradio_app.py
     app.py
     requirements.txt
 ```

@@ -22,7 +22,8 @@ def translate_json_text(req_data):
     translated_data = {}
 
     for key, value in translation_data.items():
-        translated_data[key] = model.translate_text(value, target_language)[0]
+        translated_value = model.translate_text(f"{value}", target_language)
+        translated_data[key] = translated_value[0]
 
     return jsonify(translated_data)
 
