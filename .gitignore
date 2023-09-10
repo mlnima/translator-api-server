@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+
+# Flask stuff
+instance/
+
+# Libraries
+venv/
+
+# Databases
+*.db
+*.sqlite3
+
+# Editor configurations
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+*.lnk
+
+# Models directory (assuming you want to exclude this)
+models/
